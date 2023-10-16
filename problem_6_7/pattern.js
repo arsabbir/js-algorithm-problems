@@ -43,3 +43,4 @@ function halfPyramidPat(initial) {
   return start;
 }
 console.log(halfPyramidPat(5));
+
